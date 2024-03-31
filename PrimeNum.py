@@ -7,6 +7,6 @@ elif(x>1):
             print(f" {x} is not a prime number")
         break
     else:
-        print(f"{x} is a prime number")
+        
             
-
+        #TTESTSTSST
