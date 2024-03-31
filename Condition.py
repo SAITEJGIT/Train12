@@ -30,7 +30,7 @@ else:
    else:
       print("wrong input")
 
-
+#tttstststst
 
 # p= int(input("enter the percentage : "))
 # if (50<=p<=60):
