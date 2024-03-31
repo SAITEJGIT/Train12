@@ -26,4 +26,4 @@ def Calculator(x,y):
     print(f"The sub of {x} and {y} numbers is:{result}")
     result= x*y
     print(f"The mxn of {x} and {y} numbers is:{result}")
-#TTESTTT
+Calculator(x,y)
